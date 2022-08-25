@@ -18,7 +18,9 @@
 
 <h4><strong>LANGUAGES</strong></h4>
 
-<img alt="JS" src="https://img.shields.io/badge/JS-grey?style=for-the-badge&logo=typescript&logoColor=Green"/> <img alt="TF" src="https://img.shields.io/badge/solidity-grey?style=for-the-badge&logo=solidity&logoColor=Green"/> <img alt="JAVA" src="https://img.shields.io/badge/JAVA-grey?style=for-the-badge&logo=typescript&logoColor=Green"/>
+<img alt="JS" src="https://img.shields.io/badge/JS-grey?style=for-the-badge&logo=javascript&logoColor=Green"/> 
+<img alt="TF" src="https://img.shields.io/badge/solidity-grey?style=for-the-badge&logo=solidity&logoColor=Green"/> 
+<img alt="JAVA" src="https://img.shields.io/badge/JAVA-grey?style=for-the-badge&logo=java&logoColor=Green"/>
 
 <!--
 **OpeOginni/OpeOginni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
