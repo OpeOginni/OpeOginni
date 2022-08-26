@@ -2,7 +2,7 @@
     Hey, I'm Opeyemi<img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/>
 </h1>
 
-- 17 year old working hard.
+- 17 year old working hard in the Web3 space.
 - I love to learn.
 - Bockchain developer.
 
