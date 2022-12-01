@@ -2,10 +2,10 @@
     Hey, I'm Opeyemi<img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/>
 </h1>
 
-✨ Working hard in the Web3 space.
-✨ I love to learn.
-✨ Bockchain developer.
-✨ Currently learning NodeJS
+- Working hard in the Web3 space✨.
+- I love to learn.
+- Bockchain developer.
+- Currently learning NodeJS.
 
 
 
