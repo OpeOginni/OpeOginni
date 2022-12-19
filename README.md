@@ -5,6 +5,7 @@
 - Working hard in the Web3 space✨.
 - I love to learn.
 - Bockchain developer.
+- I have some above basic HTML and CSS skills.
 - Currently learning to be an efficient Backend Developer using NodeJs, Express and MongoDB.
 
 
