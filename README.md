@@ -2,12 +2,12 @@
     Hey, I'm Opeyemi<img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/>
 </h1>
 
-- Computer Science Student and Software Developer Intern.
+- 17 Years Old Computer Science Student and Software Developer Intern.
 - Working hard in the Web3 space✨.
 - I love to learn.
-- Bockchain developer.
-- Currently bulding fullstack projects with Nodejs, ExpressJs, MongoDB, Tailwindcss and NextJs.
-- Would love to venture into Cloud Engineering. 
+- Fullstack Bockchain developer 🔧.
+- Little guy running between the Backend and Frontend 😁
+- Currently Building Project on AWS.
 
 
 
