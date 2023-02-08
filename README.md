@@ -7,7 +7,7 @@
 - I love to learn.
 - Fullstack Bockchain developer 🔧.
 - Little guy running between the Backend and Frontend 😁
-- Currently Building Project on AWS.
+- Currently Building Projects on AWS.
 
 
 
