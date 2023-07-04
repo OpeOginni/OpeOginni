@@ -2,10 +2,8 @@
     Hey, I'm Opeyemi<img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/>
 </h1>
 
-- Computer Science Student and Software Developer Intern
+- Computer Science Student and Software Developer
 - Working hard in the Web3 space✨
-- I love to learn
-- Fullstack Bockchain developer 🔧
 - Little guy running between the Backend and Frontend 😁
 - Currently Building Cloud Powered Projects with AWS
 
