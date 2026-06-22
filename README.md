@@ -7,10 +7,10 @@ I'm a software developer interested in **Fullstack Development**, **AI Agents**,
 
 ### Current Focus
 
-- Learning and building AI-powered developer tools.
+- Learning and building AI-powered developer tools
     - Contributing to [**OpenCode**](https://opencode.ai/)
     - Building [**GitTerm**](https://gitterm.dev/)
-- Exploring cloud-native infrastructure and agentic systems.
+- Exploring cloud-native infrastructure and agentic systems
 
 ### Experience
 
