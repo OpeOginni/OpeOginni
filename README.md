@@ -23,4 +23,4 @@ I'm a software developer interested in **Fullstack Development**, **AI Agents**,
 
 - 🎓 MSc Global Software Development student
 - ⚽ Football enthusiast
-- 🎮 Recovering gamer
+- 🎮 Getting back to gaming
